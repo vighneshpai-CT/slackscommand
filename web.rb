@@ -4,7 +4,7 @@ require 'json'
 require 'slack-notifier'
 
 get '/' do
-  "This is a thing"
+  "Checking the updated status"
 end
 
 post '/' do
